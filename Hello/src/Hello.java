@@ -4,8 +4,7 @@ public class Hello implements ServiceInterface {
     public String ID1,pass1;
     public boolean x,y=false;
     Database data = new Database();
-    
-    
+   
     public String controlloAutorizzazione(String Username, String Password, String Servizio){
     	this.ID1=Username;
     	this.pass1=Password;
@@ -36,6 +35,4 @@ public class Hello implements ServiceInterface {
 		return "-----------";
   }
     
-
 }
-	
