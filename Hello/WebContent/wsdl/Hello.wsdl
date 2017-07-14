@@ -34,7 +34,6 @@ Built on Apr 22, 2006 (06:55:48 PDT)-->
    <wsdl:message name="controlloAutorizzazioneRequest">
 
       <wsdl:part element="impl:controlloAutorizzazione" name="parameters">
-
       </wsdl:part>
 
    </wsdl:message>
