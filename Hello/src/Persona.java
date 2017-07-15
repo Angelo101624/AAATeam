@@ -33,5 +33,4 @@ public class Persona {
     	this.ruolo=ru;
     }
 
-
 }
